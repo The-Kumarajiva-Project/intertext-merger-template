@@ -6,3 +6,5 @@
 
 - Once the files are uploaded and pushed, the merged file(s) will be located in the "data/output" folder within the repository and it will also create a folder
   "split_dmk-t341-t0202" in that same folder in which all the input intertext files are saved.
+  
+- Also in your repo setting, in action, you have to allow access "Read and write permission"
